@@ -1,15 +1,16 @@
 
+
 public class JavaExercise3 {
 
 	public static void main(String[] args) {
 		int A = 1;
-		int B = 0;
-		int C = -4;
+		int B = 5;
+		int C = 1;
 		int Qd=(B*B)-(4*A*C);
 		
 		if(Qd<0);
 			System.out.println("There is no solution");
-		else if (Qd==0)
+		 if(Qd==0)
 			{
 					System.out.println("There is one solution");
 					double x3=(-1*B+Math.sqrt(Qd))/(2*A);
