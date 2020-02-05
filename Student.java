@@ -1,4 +1,3 @@
-
 public class Student {
 
 	
@@ -26,6 +25,21 @@ public class Student {
 			String getMajor()
 			{
 				return Major;
+				
+			}
+
+			public void Set_Id(int i) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			public void Set_name(String string) {
+				// TODO Auto-generated method stub
+				
+			}
+
+			public void Set_Major(String string) {
+				// TODO Auto-generated method stub
 				
 			}
 	
