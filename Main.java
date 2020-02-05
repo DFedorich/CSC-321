@@ -26,6 +26,14 @@ public class Main {
 		RecObj1.set_W(2);
 		System.out.println(RecObj1.get_L());
 		System.out.println(RecObj1.get_W());
+		System.out.println(RecObj1.get_Area());
+		
+		Rectangle RecObj2=new Rectangle ();
+		RecObj2.set_L(5);
+		RecObj2.set_W(2);
+		System.out.println(RecObj2.get_L());
+		System.out.println(RecObj2.get_W());
+		System.out.println(RecObj2.get_Area());
 		
 		
 	

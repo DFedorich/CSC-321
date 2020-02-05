@@ -23,5 +23,8 @@ public class Rectangle {
 	{
 			return W;
 	}
-
+	int get_Area()
+	{
+		return L*W;
+	}
 		}
