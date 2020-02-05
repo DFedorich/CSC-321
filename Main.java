@@ -27,6 +27,7 @@ public class Main {
 		System.out.println(RecObj1.get_L());
 		System.out.println(RecObj1.get_W());
 		
+		
 	
 	
 	

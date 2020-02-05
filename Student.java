@@ -29,17 +29,17 @@ public class Student {
 			}
 
 			public void Set_Id(int i) {
-				// TODO Auto-generated method stub
+			
 				
 			}
 
 			public void Set_name(String string) {
-				// TODO Auto-generated method stub
+		
 				
 			}
 
 			public void Set_Major(String string) {
-				// TODO Auto-generated method stub
+	
 				
 			}
 	
