@@ -1,12 +1,12 @@
-package P2;
+package P1;
 
-public class B {
+public class A {
 	private int x;
 	protected int y;
 	public int z;
-	public B()
+	public A()
 	{
-		System.out.println("Hi From Class B");
+		System.out.println("Hi From Class A");
 	}
 	public void set_x(int x_)
 	{
@@ -32,5 +32,4 @@ public class B {
 	{
 		return z;
 	}
-	
 }
